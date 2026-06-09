@@ -1,6 +1,9 @@
 ```markdown
 # 📈 PrimeTrade.ai - Binance Futures Trading Bot
 
+![Order Success Panel](./assets/Panel.png)
+![Order Success Panel 2](./assets/panel2.png)
+
 A robust, Python-based Command Line Interface (CLI) trading bot specifically built for the **Binance Futures Testnet**. This application features strict input validation, isolated environment configurations, and comprehensive file-based logging, wrapped in a clean terminal UI.
 
 ---
