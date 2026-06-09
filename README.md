@@ -1,4 +1,3 @@
-```markdown
 # 📈 PrimeTrade.ai - Binance Futures Trading Bot
 
 ![Order Success Panel](./assets/Panel.png)
@@ -117,4 +116,3 @@ type logs\trading.log
 ```
 
 > ⚠️ **Submission Note:** When packing this repository for evaluation, make sure to delete the local `venv/` folder and remove your private keys from the `.env` file to preserve security compliance.
-
